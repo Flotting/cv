@@ -110,7 +110,7 @@ body {
     color: #333;
     width: 340px;
     min-height: 100px;
-    padding: 15px;
+    padding: 10px;
     border-radius: 20px;
     height: auto;
     background: #f1f1f1;
@@ -122,47 +122,47 @@ body {
 
 .b1 {
     top: 30px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 .b2 {
     top: 240px;
-    left: calc(50% + 270px);
+    left: calc(50% + 240px);
 }
 
 .b3 {
     top: 410px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 .b4 {
     top: 600px;
-    left: calc(50% + 270px);
+    left: calc(50% + 240px);
 }
 
 .b5 {
     top: 860px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 .b6 {
     top: 1100px;
-    left: calc(50% + 270px);
+    left: calc(50% + 240px);
 }
 
 .b7 {
     top: 1340px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 .b8 {
     top: 1540px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 .b9 {
     top: 1690px;
-    left: calc(50% - 270px);
+    left: calc(50% - 240px);
 }
 
 
@@ -179,7 +179,7 @@ body {
         left: 200px;
     }
     .rond {
-        left: calc(50% + 200px);
+        left: calc(40% + 200px);
     }
     .box {
         left: calc(50% - 50px);
