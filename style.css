@@ -185,7 +185,7 @@ body {
         height: auto;
     }
     .box {
-        left: calc(60% - 50px);
+        left: calc(55% - 60px);
     }
 
     .titre-page {
