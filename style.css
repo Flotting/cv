@@ -31,13 +31,13 @@ body {
 
 .sous-titre {
     text-align: center;
-    padding: 30px;
+    padding: 40px 0;
     color: #8F8181;
 }
 
 .box-timeline {
     width: 100%;
-    height: 2000px;
+    height: 2650px;
     background: #f1f1f1;
     position: relative;
     padding: 30px 0 100px 0;
@@ -45,25 +45,25 @@ body {
 }
 
 .ligne {
-    height: 1690px;
+    height: 2290px;
     width: 8px;
     margin: 0 auto;
     background: #333;
 }
 
 .rond {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     background: #FF5C5C;
     position: absolute;
-    border: 11px solid #333;
+    border: 10px solid #333;
     left: 50%;
     transform: translate(-50%);
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 
@@ -74,49 +74,49 @@ body {
 }
 
 .r2 {
-    top: 240px;
+    top: 300px;
 }
 
 .r3 {
-    top: 410px;
+    top: 560px;
 }
 
 .r4 {
-    top: 600px;
+    top: 810px;
 }
 
 .r5 {
-    top: 860px;
+    top: 1150px;
 }
 
 .r6 {
-    top: 1100px;
+    top: 1500px;
 }
 
 .r7 {
-    top: 1340px;
+    top: 1800px;
 }
 
 
 .r8 {
-    top: 1540px;
+    top: 2080px;
 }
 
 .r9 {
-    top: 1690px;
+    top: 2290px;
 }
 
 .box {
     color: #333;
     width: 340px;
     min-height: 100px;
-    padding: 10px;
+    padding: 40px;
     border-radius: 20px;
     height: auto;
     background: #f1f1f1;
     box-shadow: 0 10px 15px #728F7A;
     position: absolute;
-    left: 50%;
+    left: 200%;
     transform: translate(-50%);
 }
 
@@ -126,42 +126,42 @@ body {
 }
 
 .b2 {
-    top: 240px;
+    top: 300px;
     left: calc(50% + 240px);
 }
 
 .b3 {
-    top: 410px;
+    top: 560px;
     left: calc(50% - 240px);
 }
 
 .b4 {
-    top: 600px;
+    top: 810px;
     left: calc(50% + 240px);
 }
 
 .b5 {
-    top: 860px;
+    top: 1150px;
     left: calc(50% - 240px);
 }
 
 .b6 {
-    top: 1100px;
+    top: 1500px;
     left: calc(50% + 240px);
 }
 
 .b7 {
-    top: 1340px;
+    top: 1800px;
     left: calc(50% - 240px);
 }
 
 .b8 {
-    top: 1540px;
+    top: 2080px;
     left: calc(50% - 240px);
 }
 
 .b9 {
-    top: 1690px;
+    top: 2290px;
     left: calc(50% - 240px);
 }
 
