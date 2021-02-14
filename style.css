@@ -194,3 +194,16 @@ body {
     }
 
 }
+
+@media(max-width: 767px) {
+    .box-timeline {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width: 574px) {
+    .box-timeline {
+        width: 100%;
+    }
+}
