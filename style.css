@@ -180,12 +180,12 @@ body {
         
     }
     .rond {
-        left: calc(30% + 240px);
+        left: calc(30% + 235px);
         width: auto;
         height: auto;
     }
     .box {
-        left: calc(50% - 50px);
+        left: calc(55% - 50px);
     }
 
     .titre-page {
