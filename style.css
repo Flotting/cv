@@ -36,7 +36,7 @@ body {
 }
 
 .box-timeline {
-    width: 100%;
+    width: auto;
     height: 2650px;
     background: #f1f1f1;
     position: relative;
@@ -173,13 +173,16 @@ body {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1100px) {
     .ligne {
         position: relative;
         left: 200px;
+        
     }
     .rond {
-        left: calc(40% + 200px);
+        left: calc(30% + 240px);
+        width: auto;
+        height: auto;
     }
     .box {
         left: calc(50% - 50px);
@@ -195,15 +198,3 @@ body {
 
 }
 
-@media(max-width: 767px) {
-    .box-timeline {
-        width: 50%;
-        margin-bottom: 30px;
-    }
-}
-
-@media(max-width: 574px) {
-    .box-timeline {
-        width: 100%;
-    }
-}
