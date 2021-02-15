@@ -182,8 +182,6 @@ body {
     }
     .rond {
         left: calc(40% + 200px);
-        width: auto;
-        height: auto;
     }
     .box {
         left: calc(55% - 60px);
